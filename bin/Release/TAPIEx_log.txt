@@ -1,0 +1,23 @@
+2017-04-06 15:23:48.943--	TAPIEx ActiveX Control x64 v:3, 6, 15, 8
+2017-04-06 15:23:49.067--	WARNING! UNREGISTERED COPY, EVALUATION ONLY.
+2017-04-06 15:23:49.073--	Evaluating edition: Enterprise Edition
+2017-04-06 15:23:50.206--	initialize successfully, found 5 TAPI devices, CrossThreadEvents disabled.
+2017-04-06 15:23:50.250--	=============== TAPI Drivers     ===============
+#  Device no.0 = AgileVPN 
+  {Provider: NDPROXY, Negotiated Version: 0x20002, Support:"NDIS"}
+#  Device no.1 = WAN Miniport (L2TP) 
+  {Provider: NDPROXY, Negotiated Version: 0x20002, Support:"NDIS"}
+#  Device no.2 = RAS PPPoE Line 
+  {Provider: NDPROXY, Negotiated Version: 0x20002, Support:"NDIS"}
+#  Device no.3 = PPTP 
+  {Provider: NDPROXY, Negotiated Version: 0x20002, Support:"NDIS"}
+#  Device no.4 = SSTP 
+  {Provider: NDPROXY, Negotiated Version: 0x20002, Support:"NDIS"}
+=============== WAVE Drivers     ===============
+-----------------------------------------------
+#  Wave-Out device no.0 = Realtek Digital Output (Realtek , Formats = 0xfffff, Support = 0x2c
+-----------------------------------------------
+#  Mixer device no.0 = Realtek Digital Output (Realtek
+================ Windows Version  =============== 
+# Microsoft Windows 6.1.7601, Service Pack 1
+===============================================
