@@ -21,7 +21,6 @@
 ================ Windows Version  =============== 
 # Microsoft Windows 6.1.7601, Service Pack 1
 ===============================================
-<<<<<<< HEAD
 2017-04-07 19:41:30.519--	TAPIEx ActiveX Control x64 v:3, 6, 15, 8
 2017-04-07 19:41:30.644--	WARNING! UNREGISTERED COPY, EVALUATION ONLY.
 2017-04-07 19:41:30.644--	Evaluating edition: Enterprise Edition
@@ -56,5 +55,3 @@
 ================ Windows Version  =============== 
 # Microsoft Windows 6.2.9200
 ===============================================
-=======
->>>>>>> 9cbc0758a763ce13f5c10806ed338235ab4ec86e

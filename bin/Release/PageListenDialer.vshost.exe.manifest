@@ -3,11 +3,7 @@
   <asmv1:assemblyIdentity name="PageListenDialer.exe" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
-<<<<<<< HEAD
     <assemblyIdentity name="PageListenDialer" version="1.0.6305.30763" language="neutral" processorArchitecture="msil" />
-=======
-    <assemblyIdentity name="PageListenDialer" version="1.0.6305.27510" language="neutral" processorArchitecture="msil" />
->>>>>>> 9cbc0758a763ce13f5c10806ed338235ab4ec86e
     <commandLine file="PageListenDialer.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -71,21 +67,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PageListenDialer.exe" size="32768">
-<<<<<<< HEAD
       <assemblyIdentity name="PageListenDialer" version="1.0.6305.30763" language="neutral" processorArchitecture="msil" />
-=======
-      <assemblyIdentity name="PageListenDialer" version="1.0.6305.27510" language="neutral" processorArchitecture="msil" />
->>>>>>> 9cbc0758a763ce13f5c10806ed338235ab4ec86e
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-<<<<<<< HEAD
         <dsig:DigestValue>dh8P1LtSLYK0VEaCBcOL3zZ3VDE=</dsig:DigestValue>
-=======
-        <dsig:DigestValue>WUyhXi8Qi40/xBtbaZ5wQ8HDe1s=</dsig:DigestValue>
->>>>>>> 9cbc0758a763ce13f5c10806ed338235ab4ec86e
       </hash>
     </dependentAssembly>
   </dependency>
