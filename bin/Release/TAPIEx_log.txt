@@ -1,0 +1,57 @@
+2017-04-06 15:23:48.943--	TAPIEx ActiveX Control x64 v:3, 6, 15, 8
+2017-04-06 15:23:49.067--	WARNING! UNREGISTERED COPY, EVALUATION ONLY.
+2017-04-06 15:23:49.073--	Evaluating edition: Enterprise Edition
+2017-04-06 15:23:50.206--	initialize successfully, found 5 TAPI devices, CrossThreadEvents disabled.
+2017-04-06 15:23:50.250--	=============== TAPI Drivers     ===============
+#  Device no.0 = AgileVPN 
+  {Provider: NDPROXY, Negotiated Version: 0x20002, Support:"NDIS"}
+#  Device no.1 = WAN Miniport (L2TP) 
+  {Provider: NDPROXY, Negotiated Version: 0x20002, Support:"NDIS"}
+#  Device no.2 = RAS PPPoE Line 
+  {Provider: NDPROXY, Negotiated Version: 0x20002, Support:"NDIS"}
+#  Device no.3 = PPTP 
+  {Provider: NDPROXY, Negotiated Version: 0x20002, Support:"NDIS"}
+#  Device no.4 = SSTP 
+  {Provider: NDPROXY, Negotiated Version: 0x20002, Support:"NDIS"}
+=============== WAVE Drivers     ===============
+-----------------------------------------------
+#  Wave-Out device no.0 = Realtek Digital Output (Realtek , Formats = 0xfffff, Support = 0x2c
+-----------------------------------------------
+#  Mixer device no.0 = Realtek Digital Output (Realtek
+================ Windows Version  =============== 
+# Microsoft Windows 6.1.7601, Service Pack 1
+===============================================
+2017-04-07 19:41:30.519--	TAPIEx ActiveX Control x64 v:3, 6, 15, 8
+2017-04-07 19:41:30.644--	WARNING! UNREGISTERED COPY, EVALUATION ONLY.
+2017-04-07 19:41:30.644--	Evaluating edition: Enterprise Edition
+2017-04-07 19:41:31.722--	initialize successfully, found 1 TAPI devices, CrossThreadEvents disabled.
+2017-04-07 19:41:31.784--	=============== TAPI Drivers     ===============
+#  Device no.0 = HDA CX11270 Soft Modem 
+  {Provider: Windows Telephony Service Provider for Universal Modem Driver, Negotiated Version: 0x20002, Support:"tapi/line", "comm", "comm/datamodem", "comm/datamodem/portname", "comm/datamodem/dialin", "comm/datamodem/dialout", "comm/extendedcaps", "tapi/line/diagnostics"}
+=============== WAVE Drivers     ===============
+#  Wave-In device no.0 = Internal Microphone (Conexant 2 , Formats = 0xfffff
+-----------------------------------------------
+#  Wave-Out device no.0 = ÑïÉùÆ÷ (Conexant 20585 SmartAud , Formats = 0xfffff, Support = 0x2e
+-----------------------------------------------
+#  Mixer device no.0 = ÑïÉùÆ÷ (Conexant 20585 SmartAud
+#  Mixer device no.1 = Internal Microphone (Conexant 2
+================ Windows Version  =============== 
+# Microsoft Windows 6.2.9200
+===============================================
+2017-04-07 19:41:54.160--	TAPIEx ActiveX Control x64 v:3, 6, 15, 8
+2017-04-07 19:41:54.285--	WARNING! UNREGISTERED COPY, EVALUATION ONLY.
+2017-04-07 19:41:54.285--	Evaluating edition: Enterprise Edition
+2017-04-07 19:41:54.317--	initialize successfully, found 1 TAPI devices, CrossThreadEvents disabled.
+2017-04-07 19:41:54.348--	=============== TAPI Drivers     ===============
+#  Device no.0 = HDA CX11270 Soft Modem 
+  {Provider: Windows Telephony Service Provider for Universal Modem Driver, Negotiated Version: 0x20002, Support:"tapi/line", "comm", "comm/datamodem", "comm/datamodem/portname", "comm/datamodem/dialin", "comm/datamodem/dialout", "comm/extendedcaps", "tapi/line/diagnostics"}
+=============== WAVE Drivers     ===============
+#  Wave-In device no.0 = Internal Microphone (Conexant 2 , Formats = 0xfffff
+-----------------------------------------------
+#  Wave-Out device no.0 = ÑïÉùÆ÷ (Conexant 20585 SmartAud , Formats = 0xfffff, Support = 0x2e
+-----------------------------------------------
+#  Mixer device no.0 = ÑïÉùÆ÷ (Conexant 20585 SmartAud
+#  Mixer device no.1 = Internal Microphone (Conexant 2
+================ Windows Version  =============== 
+# Microsoft Windows 6.2.9200
+===============================================

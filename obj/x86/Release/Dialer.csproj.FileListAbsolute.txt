@@ -1,0 +1,14 @@
+D:\软件研发\Dialer\bin\x86\Release\PageListenDialer.exe.config
+D:\软件研发\Dialer\bin\x86\Release\PageListenDialer.exe.manifest
+D:\软件研发\Dialer\bin\x86\Release\PageListenDialer.application
+D:\软件研发\Dialer\bin\x86\Release\PageListenDialer.exe
+D:\软件研发\Dialer\bin\x86\Release\Interop.TAPIEXLib.dll
+D:\软件研发\Dialer\bin\x86\Release\AxInterop.TAPIEXLib.dll
+D:\软件研发\Dialer\obj\x86\Release\Interop.TAPIEXLib.dll
+D:\软件研发\Dialer\obj\x86\Release\AxInterop.TAPIEXLib.dll
+D:\软件研发\Dialer\obj\x86\Release\Dialer.csproj.ResolveComReference.cache
+D:\软件研发\Dialer\obj\x86\Release\PageListenDialer.Form1.resources
+D:\软件研发\Dialer\obj\x86\Release\Dialer.csproj.GenerateResource.Cache
+D:\软件研发\Dialer\obj\x86\Release\PageListenDialer.exe.manifest
+D:\软件研发\Dialer\obj\x86\Release\PageListenDialer.application
+D:\软件研发\Dialer\obj\x86\Release\PageListenDialer.exe

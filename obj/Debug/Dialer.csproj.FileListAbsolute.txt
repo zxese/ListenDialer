@@ -1,0 +1,36 @@
+C:\Program Files (x86)\TAPIEx.com\TAPIEx ActiveX Control 3.6\Demo\Visual C#\Dialer\obj\Debug\Interop.TAPIEXLib.dll
+C:\Program Files (x86)\TAPIEx.com\TAPIEx ActiveX Control 3.6\Demo\Visual C#\Dialer\obj\Debug\AxInterop.TAPIEXLib.dll
+C:\Program Files (x86)\TAPIEx.com\TAPIEx ActiveX Control 3.6\Demo\Visual C#\Dialer\obj\Debug\Dialer.csproj.ResolveComReference.cache
+C:\Program Files (x86)\TAPIEx.com\TAPIEx ActiveX Control 3.6\Demo\Visual C#\Dialer\bin\Debug\Dialer_Demo.exe
+C:\Program Files (x86)\TAPIEx.com\TAPIEx ActiveX Control 3.6\Demo\Visual C#\Dialer\bin\Debug\Dialer_Demo.pdb
+C:\Program Files (x86)\TAPIEx.com\TAPIEx ActiveX Control 3.6\Demo\Visual C#\Dialer\obj\Debug\Dialer.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\TAPIEx.com\TAPIEx ActiveX Control 3.6\Demo\Visual C#\Dialer\obj\Debug\Dialer_Demo.Form1.resources
+C:\Program Files (x86)\TAPIEx.com\TAPIEx ActiveX Control 3.6\Demo\Visual C#\Dialer\obj\Debug\Dialer.csproj.GenerateResource.Cache
+C:\Program Files (x86)\TAPIEx.com\TAPIEx ActiveX Control 3.6\Demo\Visual C#\Dialer\obj\Debug\Dialer_Demo.exe
+C:\Program Files (x86)\TAPIEx.com\TAPIEx ActiveX Control 3.6\Demo\Visual C#\Dialer\obj\Debug\Dialer_Demo.pdb
+F:\软件研发\Dialer\bin\Debug\Interop.TAPIEXLib.dll
+F:\软件研发\Dialer\bin\Debug\AxInterop.TAPIEXLib.dll
+F:\软件研发\Dialer\obj\Debug\Dialer.csproj.GenerateResource.Cache
+D:\软件研发\Dialer\obj\Debug\Interop.TAPIEXLib.dll
+D:\软件研发\Dialer\obj\Debug\AxInterop.TAPIEXLib.dll
+D:\软件研发\Dialer\obj\Debug\Dialer.csproj.ResolveComReference.cache
+D:\软件研发\Dialer\obj\Debug\PageListenDialer.Form1.resources
+D:\软件研发\Dialer\obj\Debug\Dialer.csproj.GenerateResource.Cache
+D:\软件研发\Dialer\bin\Debug\PageListenDialer.exe.config
+D:\软件研发\Dialer\bin\Debug\PageListenDialer.exe
+D:\软件研发\Dialer\bin\Debug\PageListenDialer.pdb
+D:\软件研发\Dialer\bin\Debug\Interop.TAPIEXLib.dll
+D:\软件研发\Dialer\bin\Debug\AxInterop.TAPIEXLib.dll
+D:\软件研发\Dialer\obj\Debug\Dialer.csprojResolveAssemblyReference.cache
+D:\软件研发\Dialer\obj\Debug\PageListenDialer.exe
+D:\软件研发\Dialer\obj\Debug\PageListenDialer.pdb
+F:\软件研发\Dialer\bin\Debug\PageListenDialer.exe.config
+F:\软件研发\Dialer\obj\Debug\PageListenDialer.exe
+F:\软件研发\Dialer\obj\Debug\PageListenDialer.pdb
+F:\软件研发\Dialer\bin\Debug\PageListenDialer.exe.manifest
+F:\软件研发\Dialer\bin\Debug\PageListenDialer.application
+F:\软件研发\Dialer\bin\Debug\PageListenDialer.exe
+F:\软件研发\Dialer\bin\Debug\PageListenDialer.pdb
+F:\软件研发\Dialer\obj\Debug\PageListenDialer.Form1.resources
+F:\软件研发\Dialer\obj\Debug\PageListenDialer.exe.manifest
+F:\软件研发\Dialer\obj\Debug\PageListenDialer.application
