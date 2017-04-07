@@ -590,6 +590,7 @@ namespace PageListenDialer
             if (webBrowser1.Document != null)
             {
                 //模拟执行页面查询按钮
+<<<<<<< HEAD
                 if (webBrowser1.Document.Window.Frames["iframe"] != null)
                 {
                     HtmlDocument htmlDoc = webBrowser1.Document.Window.Frames["iframe"].Document;
@@ -620,6 +621,33 @@ namespace PageListenDialer
                                     currCall = line.MakeCall(Ednumber.Text);
                                     break;
                                 }
+=======
+                HtmlDocument htmlDoc = webBrowser1.Document.Window.Frames["iframe"].Document;
+                htmlDoc.InvokeScript("queryBtn");
+                //Thread.Sleep(2000);
+                //分割多个监听内容
+                string[] arrListenString = Regex.Split(txtListenString.Text.ToString(), @"[,，]|\s+");
+
+                for (int i = 0; i < arrListenString.Length;i++ )
+                {
+                    if (htmlDoc.Body.InnerText.Contains(arrListenString[i]))
+                    {
+                        //给指定电话号码拨号
+                        TAPIEXLib.ITAPILine line;
+                        if (CbLines.SelectedIndex >= 0)
+                        {
+                            CLineDevice lDevice;
+                            lDevice = (PageListenDialer.Form1.CLineDevice)CbLines.SelectedItem;
+                            line = mTAPIEx.GetLineFromDeviceID(lDevice.m_ID);
+                            if (line.Open())
+                            {
+                                if (currCall != null)
+                                {
+                                    currCall.Drop();
+                                }
+                                //拨打电话
+                                currCall = line.MakeCall(Ednumber.Text);
+>>>>>>> 9cbc0758a763ce13f5c10806ed338235ab4ec86e
                             }
                         }
                     }
